@@ -4,8 +4,8 @@
 // Description: An easy-to-use generic enough graph implementation.
 //
 
-#ifndef ARTIFACTS_GRAPH_HPP
-#define ARTIFACTS_GRAPH_HPP
+#ifndef RTW_GRAPH_HPP
+#define RTW_GRAPH_HPP
 
 #include <algorithm>
 #include <cassert>
@@ -733,5 +733,5 @@ class Graph {
 
 }
 
-#endif // ARTIFACTS_GRAPH_HPP
+#endif // RTW_GRAPH_HPP
 
