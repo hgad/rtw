@@ -1,3 +1,9 @@
+//
+// Author:      Haitham Gad
+// Date:        5/1/2016
+// Description: An easy-to-use generic enough graph implementation.
+//
+
 #ifndef ARTIFACTS_GRAPH_HPP
 #define ARTIFACTS_GRAPH_HPP
 
